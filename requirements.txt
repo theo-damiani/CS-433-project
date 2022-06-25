@@ -1,0 +1,21 @@
+TensorFlow 2.7.0
+tensorflow-gpu
+CUDA: 11.5
+CUDNN: v8.2.2 (July 6th, 2021) 
+pip libraries
+    pip install numpy
+    pip install voxelmorph
+    pip install neurite
+    pip install matplotlib
+    pip install utils
+    pip install scipy
+    pip install Pillow
+    pip install opencv-python==3.3.0.10 opencv-contrib-python==3.3.0.10
+    pip install transforms3d
+    pip install imutils
+    pip install sklearn
+    pip install scikit-image
+    pip install timm
+    pip install tqdm
+    pip install pandas
+    pip install extract_patches
